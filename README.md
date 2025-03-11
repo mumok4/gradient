@@ -1,1 +1,3 @@
-# gradient
+# Gradient
+
+A simple gradient generator
