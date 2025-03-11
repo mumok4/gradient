@@ -1,3 +1,4 @@
-# Gradient
+# gradient
 
-A simple gradient generator
+Simple gradient creator
+link: https://github.com/mumok4/gradient.git
